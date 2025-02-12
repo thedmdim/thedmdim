@@ -1,16 +1,15 @@
-## Hi there 👋
+## My name is Dima
 
-<!--
-**thedmdim/thedmdim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I love build programs which communicate via the Internet
+- 5 years of experience in almost all areas of web development
+- Netsalking background
+- y2k aethetic
 
-Here are some ideas to get you started:
+## My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ytstalker.fun](https://yttalker.fun) and [ytstalker tg](https://t.me/youtubestalkerbot)
+- [SwitchSearch](https://addons.mozilla.org/firefox/addon/switchsearch)
+
+## Contacts
+
+thedmdim@gmail.com
