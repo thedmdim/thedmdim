@@ -3,7 +3,7 @@
 - I love build programs which communicate via the Internet
 - 5 years of experience in almost all areas of web development
 - Netsalking background
-- y2k aethetic
+- love y2k aethetic
 
 ## My projects
 
