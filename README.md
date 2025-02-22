@@ -8,7 +8,7 @@
 ## My projects
 
 - [ytstalker.fun](https://yttalker.fun) and [ytstalker tg](https://t.me/youtubestalkerbot)
-- [SwitchSearch](https://addons.mozilla.org/firefox/addon/switchsearch)
+- [SwitchSearch](https://github.com/thedmdim/switchsearch)
 
 ## Contacts
 
